@@ -1,1 +1,3 @@
 # web-scraper-for-quotes
+
+This project is a web scraper built with Python using requests, BeautifulSoup, and pandas. It extracts quotes, authors, and associated tags from the website Quotes to Scrape and saves the data in a CSV file. The scraper supports pagination to gather data from all pages of the site, ensuring a comprehensive dataset. Each quote's tags are included to provide additional context or categorization. This project demonstrates foundational web scraping techniques, error handling, and data organization, making it a practical example for beginners interested in web data extraction and analysis.
